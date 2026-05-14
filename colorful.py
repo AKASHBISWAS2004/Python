@@ -1,4 +1,4 @@
-import turtle  # import the library that we are going to use
+import turtle  
 colors = ['red', 'purple', 'blue', 'green', 'yellow', 'orange']
 
 turtle.bgcolor('black')
